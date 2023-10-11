@@ -1,9 +1,8 @@
 # Awesome Personalized LM and LLM
 
 A curated list of **Personalized Language model** and **Large language model**:
-- [Awesome Personalized LM and LLM](#awesome-personalized-lm-and-llm)
-  - [Retrieval-Fusion approach](#retrieval-fusion-approach)
-  - [Benchmark](#benchmark)
+- [Retrieval-Fusion approach](#retrieval-fusion-approach)
+- [Benchmark](#benchmark)
 
 ## Retrieval-Fusion approach
 |                                             Paper Title                                              |          Affiliation           | Published At |                                                                                                              Link                                                                                                              |
