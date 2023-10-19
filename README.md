@@ -3,6 +3,8 @@
 A curated list of **Personalized Language mo｀el** and **Large language model**:
 - [Awesome Personalized LM and LLM](#awesome-personalized-lm-and-llm)
   - [Retrieval-Fusion approach](#retrieval-fusion-approach)
+  - [Persona Grounding](#persona-grounding)
+  - [Evaluation](#evaluation)
   - [Dataset](#dataset)
   - [Benchmark](#benchmark)
 
@@ -10,6 +12,17 @@ A curated list of **Personalized Language mo｀el** and **Large language model**
 |                                             Paper Title                                              |          Affiliation           | Published At |                                                                                                              Link                                                                                                              |
 | :--------------------------------------------------------------------------------------------------: | :----------------------------: | :----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation | Information Sciences Institute |    ACL'23    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
+
+## Persona Grounding
+|                                             Paper Title                                              |          Affiliation           | Published At |                                                                                                              Link                                                                                                              |
+| :--------------------------------------------------------------------------------------------------: | :----------------------------: | :----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| P5: Plug-and-Play Persona Prompting for Personalized Response Selection | NAVER; Kakao Brain |    EMNLP'23    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.06390) [![Github](https://img.shields.io/github/stars/rungjoo/plug-and-play-prompt-persona.svg?style=social&label=Github)](https://github.com/rungjoo/plug-and-play-prompt-persona) |
+
+## Evaluation
+|                                             Paper Title                                              |          Affiliation           | Published At |                                                                                                              Link                                                                                                              |
+| :--------------------------------------------------------------------------------------------------: | :----------------------------: | :----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Automated Evaluation of Personalized Text Generation using Large Language Models | Google Research; University of Michigan |    arXiv'23    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.11593) |
+
 
 ## Dataset
 | Dataset Name | Paper Title | Affiliation | Published At | Link |
